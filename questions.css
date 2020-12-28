@@ -1,0 +1,31 @@
+body{
+    background-color: #c1a4e7;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.quiz-container{
+    background-color: white;
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: whitesmoke;
+    padding: 3rem;
+}
+button{
+    background-color: blueviolet;
+    width: 100%;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: brown;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    font-weight: bold;
+    padding: 5px;
+}

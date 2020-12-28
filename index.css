@@ -1,0 +1,30 @@
+.centre{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    color:rgb(20, 4, 4);
+}
+.log{
+    position: absolute;
+    top:30%;
+    left: 45%;
+}
+.btn{
+    position: absolute;
+    top:50%;
+    left: 45%;
+}
+.plan{
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+body{
+    background-image: url(https://www.teahub.io/photos/full/164-1643842_free-wood-desktop-background-mac-plane-background-images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: transparent(-50%,-50%);
+}
+.side{
+    color:white;
+    border: 10px 30px #ffffff;
+}
